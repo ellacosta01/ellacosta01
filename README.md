@@ -1,44 +1,121 @@
-# Hi, I'm Ella | Mechatronic Engineer & SDET 👋
+# Hi, I'm Ella | QA Automation Engineer & SDET 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=005f73&height=200&section=header&text=Quality%20Engineering%20Specialist&fontSize=40&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0891b2&height=160&section=header&text=Quality%20Engineering%20Specialist&fontSize=34&animation=fadeIn&fontColor=ffffff" width="100%" />
 </p>
 
-### 🌟 Professional Impact
-[cite_start]I leverage my background in **Mechatronic Engineering** to build high-precision automation solutions across the full software stack.
+<p align="center">
+  <strong>Versatile QA professional focused on backend validation, test automation architecture, and scalable quality strategies.</strong>
+</p>
 
-* [cite_start]**Efficiency Leader:** Optimized API regression at Yuxi Global, reducing execution time from **2 days to 15 minutes**.
-* [cite_start]**Versatile Automation:** Expert in designing frameworks from scratch using **Screenplay** and **POM** patterns.
-* [cite_start]**Full-Stack QA:** Delivering robust automation for **Web, Mobile, and Backend** (API) environments.
-
----
-
-### 🛠️ Strategic Tech Stack
-
-| **Automation Ecosystem** | **Languages & Backend** | **Infrastructure & Tools** |
-| :--- | :--- | :--- |
-| <img src="https://skillicons.dev/icons?i=selenium,playwright,appium" /> | <img src="https://skillicons.dev/icons?i=java,ts,js" /> | <img src="https://skillicons.dev/icons?i=spring,postgres,postman,docker,git" /> |
-| `Selenium` `Playwright` `Appium` | `Java` `TypeScript` `JavaScript` | `Spring Boot` `PostgreSQL` `Postman` `Docker` `Git` |
+<p align="center">
+  <em>Bilingual professional | English & Spanish</em>
+</p>
 
 ---
 
-### 🏗️ Key Expertise
-* [cite_start]**API Testing:** High-scale automation using **Postman** and **Java** (RestAssured/Karate).
-* [cite_start]**Architecture:** Implementation of scalable patterns like **Screenplay** and **Page Object Model (POM)**.
-* [cite_start]**Mobile & Web:** Cross-platform testing for complex web and mobile applications.
+## 🌟 Professional Summary
+
+I am a versatile **QA Automation Engineer and SDET** with experience designing and implementing automation solutions for **backend, API, web, and mobile applications**.
+
+My current work is strongly focused on **backend validation**, **automation strategy**, and building maintainable frameworks using patterns such as **Screenplay** and **Page Object Model (POM)**.
+
+I bring an engineering mindset to software quality, combining technical depth, adaptability, and a strong focus on delivering solutions that improve reliability, efficiency, and team productivity.
 
 ---
 
-### 🎓 Continuous Growth
-* **Mechatronics Engineering Degree** | [cite_start]ITM Medellín.
-* **Performance Testing Specialist** | [cite_start]Blazemeter (JMeter).
-* **IoT Security & Infrastructure** | [cite_start]Cisco Networking Academy.
-* **Database Design** | [cite_start]SQL Specialist.
+## 🚀 Professional Impact
+
+- **Efficiency Driven:** Optimized API regression execution at Yuxi Global, reducing runtime from **2 days to 15 minutes**.
+- **Automation Architecture:** Experience designing scalable frameworks using **Screenplay** and **Page Object Model (POM)**.
+- **Versatile QA Expertise:** Hands-on work across **backend, API, web, and mobile testing**.
+- **Knowledge Enabler:** Created technical guides, onboarding material, and testing documentation for complex systems.
+- **Team Support:** Experience mentoring teams on testing strategies, automation practices, and quality processes.
 
 ---
+
+## 🛠️ Tech Stack
+
+### 🚀 Automation, QA & Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,selenium,playwright,postman,docker,git" />
+</p>
+
+### ⚙️ Testing Tools & Practices
+- Serenity BDD
+- Screenplay Pattern
+- Page Object Model (POM)
+- Appium
+- Karate
+- TestCafe
+- JMeter
+- API Testing
+- Backend Validation
+- UI Automation
+- Regression Testing
+- Performance Testing
+
+### 🧩 DevOps & CI/CD
+- GitLab CI
+- Jenkins
+- Docker Compose
+- Kubernetes
+- SonarQube
+
+---
+
+## 🏗️ Core Strengths
+
+- **Backend & API Testing**
+- **Automation Framework Design**
+- **Scalable Regression Strategies**
+- **UI and Mobile Test Automation**
+- **Performance and Reliability Validation**
+- **Technical Documentation**
+- **Cross-functional Collaboration**
+- **Adaptability and Continuous Learning**
+
+---
+
+## 💡 QA Philosophy
+
+> Great automation is not just about running tests.  
+> It is about building confidence, accelerating delivery, and making quality visible.
+
+I enjoy solving complex testing challenges, improving regression efficiency, and contributing to engineering teams with a practical and strategic quality mindset.
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.S. in Mechatronics Engineering**
+- **SQL Certification**
+- **Apache JMeter Intro**
+- **IoT Fundamentals**
+- **IoT Security Fundamentals**
+
+---
+
+## 🌐 Languages
+
+- **Spanish:** Native
+- **English:** Professional working proficiency
+
+---
+
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:ella0102.ea@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-005f73?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-0891b2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/ellacosta01">
+    <img src="https://img.shields.io/badge/GitHub-Visit%20Profile-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thanks for visiting my profile
 </p>
