@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Ella | Mechatronic Engineer & SDET 👋
 
-<!--
-**ellacosta01/ellacosta01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=005f73&height=200&section=header&text=Quality%20Engineering%20Specialist&fontSize=40&animation=fadeIn" width="100%" />
+</p>
 
-Here are some ideas to get you started:
+### 🌟 Professional Impact
+[cite_start]I leverage my background in **Mechatronic Engineering** to build high-precision automation solutions across the full software stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [cite_start]**Efficiency Leader:** Optimized API regression at Yuxi Global, reducing execution time from **2 days to 15 minutes**.
+* [cite_start]**Versatile Automation:** Expert in designing frameworks from scratch using **Screenplay** and **POM** patterns.
+* [cite_start]**Full-Stack QA:** Delivering robust automation for **Web, Mobile, and Backend** (API) environments.
+
+---
+
+### 🛠️ Strategic Tech Stack
+
+| **Automation Ecosystem** | **Languages & Backend** | **Infrastructure & Tools** |
+| :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=selenium,playwright,appium" /> | <img src="https://skillicons.dev/icons?i=java,ts,js" /> | <img src="https://skillicons.dev/icons?i=spring,postgres,postman,docker,git" /> |
+| `Selenium` `Playwright` `Appium` | `Java` `TypeScript` `JavaScript` | `Spring Boot` `PostgreSQL` `Postman` `Docker` `Git` |
+
+---
+
+### 🏗️ Key Expertise
+* [cite_start]**API Testing:** High-scale automation using **Postman** and **Java** (RestAssured/Karate).
+* [cite_start]**Architecture:** Implementation of scalable patterns like **Screenplay** and **Page Object Model (POM)**.
+* [cite_start]**Mobile & Web:** Cross-platform testing for complex web and mobile applications.
+
+---
+
+### 🎓 Continuous Growth
+* **Mechatronics Engineering Degree** | [cite_start]ITM Medellín.
+* **Performance Testing Specialist** | [cite_start]Blazemeter (JMeter).
+* **IoT Security & Infrastructure** | [cite_start]Cisco Networking Academy.
+* **Database Design** | [cite_start]SQL Specialist.
+
+---
+
+<p align="center">
+  <a href="mailto:ella0102.ea@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-005f73?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
